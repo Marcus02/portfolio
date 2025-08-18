@@ -1,0 +1,6 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" fill="#f3f4f6"/>
+  <rect x="50" y="50" width="300" height="100" fill="#d1d5db"/>
+  <circle cx="200" cy="100" r="20" fill="#9ca3af"/>
+  <text x="200" y="110" text-anchor="middle" fill="#6b7280" font-size="12">Project</text>
+</svg>
